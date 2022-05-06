@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+#song_name {
+    float: left;
+}
+canvas {
+    border-color: black;
+    border-radius: 10px;
+    border-width: 7px;
+    border-style: double;
+}
